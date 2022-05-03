@@ -1,6 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
-
+/*
 //转义字符
 int main() {
 	printf("%s\n", "abcd??)");//三字母词:??)将转换成]  vs2019中不支持
@@ -15,3 +15,4 @@ int main() {
 	return 0;
 }
 
+*/
